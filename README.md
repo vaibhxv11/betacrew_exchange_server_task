@@ -18,14 +18,14 @@ To run this project,
 
 1.Clone the repository :
 ```bash
-git clone https://github.com/vaibhxv11/betacrew_exchange_server-task.git
+git clone https://github.com/vaibhxv11/betacrew_exchange_server_task.git
 
 ```
 
 2.Navigate to the project  :
 
 ```bash
-cd betacrew_exchange_server-task
+cd betacrew_exchange_server_task
 ```
 3.Start the Betacrew Exchange Server :
 
